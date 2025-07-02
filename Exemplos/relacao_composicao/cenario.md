@@ -9,4 +9,4 @@
 
 > Se o computador for destruído, os componentes também
 
-Acesse [comando](comandos1.py) para visualizar a resolução.
+Acesse [comando](comando.py) para visualizar a resolução.
