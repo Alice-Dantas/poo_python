@@ -6,4 +6,4 @@
 
 > Quando você agenda, passa uma pessoa e um compromisso como parâmetros.
 
-Acesse [comando](comandos1.py) para visualizar a resolução.
+Acesse [comando](comando.py) para visualizar a resolução.
