@@ -7,4 +7,4 @@
 
 > Se a turma for apagada, os alunos continuam existindo
 
-Acesse [comando](comandos1.py) para visualizar a resolução.
+Acesse [comando](comandos.py) para visualizar a resolução.
