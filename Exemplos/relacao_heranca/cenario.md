@@ -7,4 +7,4 @@
 
 > Use super() para reaproveitar o __init__ da classe base
 
-Acesse [comando](comandos1.py) para visualizar a resolução.
+Acesse [comando](comando.py) para visualizar a resolução.
